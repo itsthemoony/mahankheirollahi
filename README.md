@@ -22,8 +22,8 @@
     <tr>
         <td>Backend</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="30" height="30"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30" height="30"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" height="30"/></a>
         </td>
     </tr>
@@ -34,7 +34,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30" height="30"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="30" height="30"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30" height="30"/></a>
         </td>
     </tr>
     <tr>
