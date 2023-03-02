@@ -14,12 +14,14 @@
 ### Toolset
 
 <table>
+    
     <tr>
         <td>CI/CD</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
         </td>
-    </tr>    
+    </tr>
+    
     <tr>
         <td>Backend</td>
         <td>
@@ -28,16 +30,17 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" height="30"/></a>
         </td>
     </tr>
+    
     <tr>
         <td>Frontend Dev</td>
         <td>
-          
             <a href=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30" height="30"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="30" height="30"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30" height="30"/></a>
         </td>
     </tr>
+    
     <tr>
         <td>Databases/Datastores</td>
         <td>
@@ -45,6 +48,7 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="30" height="30"/></a>
         </td>
     </tr>
+    
     <tr>
         <td>IDEs</td>
         <td>
@@ -52,9 +56,9 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="30" height="30"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="30" height="30"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/></a>
-            
         </td>
     </tr>
+    
     <tr>
         <td>Others/Misc</td>
         <td>
