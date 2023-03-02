@@ -32,7 +32,7 @@
         </td>
     </tr>
       <tr>
-        <td>Databases/Datastores</td>
+        <td>Databases</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
