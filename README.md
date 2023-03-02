@@ -78,11 +78,9 @@
            <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahankheirollahi"/>
         </td> 
-     </tr>
-      <tr>
         <td>
-            <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahankheirollahi)](https://github.com/mahankheirollahi/github-readme-stats)"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahankheirollahi&langs_count=10&layout=compact"/>
         </td>
-    </tr>
+     </tr>
    </table>
      
