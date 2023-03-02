@@ -14,14 +14,12 @@
 ### Toolset
 
 <table>
-    
     <tr>
         <td>CI/CD</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
-    
     <tr>
         <td>Backend</td>
         <td>
@@ -30,7 +28,6 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" height="30"/></a>
         </td>
     </tr>
-    
     <tr>
         <td>Frontend Dev</td>
         <td>
@@ -40,7 +37,6 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30" height="30"/></a>
         </td>
     </tr>
-    
     <tr>
         <td>Databases/Datastores</td>
         <td>
@@ -48,7 +44,6 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="30" height="30"/></a>
         </td>
     </tr>
-    
     <tr>
         <td>IDEs</td>
         <td>
@@ -58,7 +53,6 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/></a>
         </td>
     </tr>
-    
     <tr>
         <td>Others/Misc</td>
         <td>
