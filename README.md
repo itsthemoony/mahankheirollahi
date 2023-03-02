@@ -80,7 +80,6 @@
         </td> 
      </tr>
       <tr>
-    
         <td>
             <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahankheirollahi)](https://github.com/mahankheirollahi/github-readme-stats)"/>
         </td>
