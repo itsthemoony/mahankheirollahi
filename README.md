@@ -54,9 +54,19 @@
         </td>
     </tr>
     <tr>
-        <td>Others/Misc</td>
+        <td>Misc</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    </tr>
+    <tr>
+        <td>Design</td>
+        <td>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/></a>
+           <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" width="40" height="40"/></a>
+            <a href=""><img src="https://www.wizcase.com/wp-content/uploads/2022/02/figma-logo.png" width="40" height="40"/></a>
+            
         </td>
     </tr>
 </table>
