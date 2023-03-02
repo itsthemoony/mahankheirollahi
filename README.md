@@ -1,6 +1,6 @@
 # Hello World 👋, I'm Mahan Kheirollahi
 
-### Mobile Developer 📱 and UI UX Designer 🎨
+### Mobile Developer and UI UX Designer 📱🎨
 
 - 🔭 I’m currently working on: My Private Cross Platform Mobile App Projects
 - 🌱 I’m currently improving myself in : Flutter, Dart and UI UX Design
