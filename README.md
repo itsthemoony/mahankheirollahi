@@ -11,3 +11,53 @@
 <a href="http://discordapp.com/users/746703516185395230"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="30" height="30"/></a>
 <a href="https://twitter.com/itsthemahan"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="30" height="30"/></a>
 
+### Toolset
+
+<table>
+        <td>CI/CD</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Backend</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" height="30"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Frontend Dev</td>
+        <td>
+          
+            <a href=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="30" height="30"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Databases/Datastores</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="30" height="30"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>IDEs</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/></a>
+            
+        </td>
+    </tr>
+    <tr>
+        <td>Others/Misc</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+</table>
