@@ -9,7 +9,8 @@
 <br/>
 
 ### Connect With me:
-
-<a href="https://twitter.com/itsthemahan"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/mahankheirollahi/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="http://discordapp.com/users/746703516185395230"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="40" height="40"/></a>
+<a href="https://twitter.com/itsthemahan"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+
+
