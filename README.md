@@ -68,16 +68,4 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40"/></a>
         </td>
     </tr>
-        <tr>
-        <td>Video Editing</td>
-        <td>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1051px-Adobe_Premiere_Pro_CC_icon.svg.png" width="40" height="40"/></a>
-        </td>
-    </tr>
-       <tr>
-        <td>Color Grading</td>
-        <td>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="40" height="40"/></a>
-        </td>
-    </tr>
 </table>
