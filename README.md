@@ -69,3 +69,21 @@
         </td>
     </tr>
 </table>
+
+<table>
+      <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=mahankheirollahi&row=3&column=4&no-bg=true"/>
+        </td>
+           <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahankheirollahi"/>
+        </td> 
+     </tr>
+      <tr>
+    
+        <td>
+            <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahankheirollahi)](https://github.com/mahankheirollahi/github-readme-stats)"/>
+        </td>
+    </tr>
+   </table>
+     
