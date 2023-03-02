@@ -73,7 +73,7 @@
 <table>
       <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahankheirollahi&langs_count=10&layout=compact"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahankheirollahi&langs_count=10&layout=compac&hide=kotlin,c,swift,c++,CMake"/>
         </td>
      </tr>
    </table>
