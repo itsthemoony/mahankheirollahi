@@ -2,7 +2,7 @@
 
 ### Mobile Developer and UI UX Designer 📱🎨
 
-- ⌨️ I’m currently working on: Getting Cross Platform Mobile Projects and Working as a UI UX Designer at Singularity Software Technology
+- 🔭 I’m currently working on: Getting Cross Platform Mobile Projects and Working as a UI UX Designer at Singularity Software Technology
 - 🌱 I’m currently improving myself in : Flutter, Dart and UI UX Design
 - 👨‍💻 I’m interested in Video Editing, Photo Editing and Color Grading
 - 💬 Ask me about Flutter, Dart, Python, Java, UI UX design
