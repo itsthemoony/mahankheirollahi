@@ -73,12 +73,6 @@
 <table>
       <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=mahankheirollahi&row=3&column=4&no-bg=true"/>
-        </td>
-           <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahankheirollahi"/>
-        </td> 
-        <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahankheirollahi&langs_count=10&layout=compact"/>
         </td>
      </tr>
