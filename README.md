@@ -18,7 +18,7 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
         </td>
-    </tr>
+    
     <tr>
         <td>Backend</td>
         <td>
