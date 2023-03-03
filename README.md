@@ -17,7 +17,7 @@
 
 <table>
      <tr>
-        <td>Frontend Dev</td>
+        <td>Frontend</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a>
