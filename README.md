@@ -3,7 +3,7 @@
 ### Mobile Developer and UI UX Designer 📱🎨
 
 - 🔭 I’m currently working on: Cross Platform Mobile Projects
-- 🌱 I’m currently improving myself in : Flutter, Dart and UI UX Design
+- 🌱 I’m currently improving myself in : UI UX Design, Javascript and Nodejs
 - 👨‍💻 I’m interested in Video Editing, Photo Editing and Color Grading
 - 💬 Ask me about Flutter, Dart, Python, Java, UI UX design
 ### Connect Me:
