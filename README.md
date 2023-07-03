@@ -9,9 +9,8 @@
 ### Connect Me:
 
 <a href="https://www.linkedin.com/in/mahankheirollahi/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="http://discordapp.com/users/746703516185395230"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="40" height="40"/></a>
 <a href="https://twitter.com/itsthemahan"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40" height="40"/></a>
-<a href="mailto:kheirollahi.mahan@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
+<a href="mailto:kheirollahi.mahan@gmail.com"><img src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg" width="40" height="40"/></a>
 
 ### Languages and Tools:
 
