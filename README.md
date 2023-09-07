@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: Cross Platform Mobile Projects
 - 🌱 I’m currently improving myself in : Nodejs and Swift
 - 👨‍💻 I’m interested in Video Editing, Photo Editing
-- 💬 Ask me about Flutter, Dart, Python, Java, UI UX design
+- 💬 Ask me about Flutter, Dart, Python, UI UX design
 ### Connect Me:
 
 <a href="https://www.linkedin.com/in/mahankheirollahi/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
