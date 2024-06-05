@@ -1,11 +1,22 @@
 # Hello World 👋, I'm Mahan Kheirollahi
 
-### Mobile Developer and Business Analyst 📱🎨
+## Mobile Developer and Business Analyst 📱🎨
 
-- 🔭 I’m currently working on: Flutter Cross Platform Projects
-- 🌱 I’m currently improving myself in : Nodejs and Swift
-- 👨‍💻 I’m interested in Video and Photo Editing
-- 💬 Ask me about Flutter, Dart, Python, UI UX design
+### 🔭 Current Projects
+I'm actively working on **Flutter Cross-Platform Projects** to create seamless and intuitive mobile applications.
+
+### 🌱 Skills Development
+I'm continuously improving my skills in **Node.js** and **Swift** to expand my development toolkit and create more robust applications.
+
+### 👨‍💻 Interests
+I have a keen interest in **Video and Photo Editing**, where I explore my creativity and enhance visual storytelling.
+
+### 💬 Ask Me About
+Feel free to ask me about **Flutter, Dart, Python, UI/UX Design**. I'm always excited to share my knowledge and discuss innovative ideas!
+
+---
+
+Feel free to adjust or add any additional details that you think might be relevant!
 ### Connect Me:
 
 <a href="https://www.linkedin.com/in/mahankheirollahi/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
