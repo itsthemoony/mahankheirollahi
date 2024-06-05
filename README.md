@@ -1,10 +1,10 @@
 # Hello World 👋, I'm Mahan Kheirollahi
 
-### Mobile Developer and UI UX Designer 📱🎨
+### Mobile Developer and Business Analyst 📱🎨
 
 - 🔭 I’m currently working on: Flutter Cross Platform Projects
 - 🌱 I’m currently improving myself in : Nodejs and Swift
-- 👨‍💻 I’m interested in Video Editing, Photo Editing
+- 👨‍💻 I’m interested in Video and Photo Editing
 - 💬 Ask me about Flutter, Dart, Python, UI UX design
 ### Connect Me:
 
@@ -28,9 +28,10 @@
         </td>
     </tr>
     <tr>
-        <td>Backend</td>
+        <td>Languages</td>
         <td>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/></a>
+            <a href="#"><img src=" https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
         </td>
@@ -38,8 +39,12 @@
     <tr>
         <td>Databases</td>
         <td>
+            <a href="#"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-            <a href="#"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+            <a href="#"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/>
+            <a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/>
+         
+            </a>
         </td>
     </tr>
     <tr>
