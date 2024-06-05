@@ -31,7 +31,7 @@
         <td>Languages</td>
         <td>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/></a>
-            <a href="#"><img src=" https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40"/></a>
+            <a href="#"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
         </td>
@@ -42,9 +42,7 @@
             <a href="#"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/>
-            <a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/>
-         
-            </a>
+            <a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
