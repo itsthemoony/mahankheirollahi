@@ -1,6 +1,6 @@
 # Hello World 👋, I'm Mahan Kheirollahi
 
-## Software Enginerr
+## Software Engineer
 
 ### Designing Solutions, Engineering Results, Analyzing Impact
 
