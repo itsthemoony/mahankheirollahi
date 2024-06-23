@@ -34,7 +34,6 @@ Feel free to ask me about **Flutter, Dart, Python, UI/UX Design**. I'm always ex
             <a href="#"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
-            <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
