@@ -40,8 +40,6 @@ Feel free to ask me about **Flutter, Dart, Python, UI/UX Design**. I'm always ex
     <tr>
         <td>Languages</td>
         <td>
-            <a href="#"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/></a>
-            <a href="#"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
         </td>
